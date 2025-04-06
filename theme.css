@@ -1,0 +1,35 @@
+.button_f9d37d.icon_f9d37d.hover_f9d37d.button_dd4f85.lookBlank_dd4f85.hoverColor_f9d37d {
+    display: none;
+}
+
+.button_fb7f94.icon_fb7f94.hover_fb7f94.button__201d5.lookBlank__201d5.hoverColor_fb7f94 {
+    display: none;
+}
+
+.popover__2d0ab.avatarPopover__2d0ab.wrapper_f7ecac {
+  display: none;
+}
+
+.popover__2d0ab.activityPopover__2d0ab.wrapper_f7ecac {
+  display: none;
+}
+
+.popover__2d0ab.statusPopover__2d0ab.wrapper_f7ecac {
+  display: none;
+}
+
+.channelNotice_e2d7b8 {
+  display: none;
+}
+
+.banner__68edb::before {
+    display: none;
+}
+
+.background_fb62e2 {
+  background-color: var(--background-primary) !important;
+}
+
+.banner__68edb {
+  background-color: var(--background-primary-alt) !important;
+}
